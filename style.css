@@ -1,0 +1,43 @@
+.total{
+    margin: 0px;
+    background-color:antiquewhite;
+    align-items: center;
+    justify-content: space-evenly;
+    }
+.titulo{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.gatitos {
+    height: 200px;
+    display: flex;
+    
+}
+.celeste{
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.rosado{
+    margin-top: 10px;
+    background-color:rosybrown;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.blanco{
+    margin-top: 10px;
+    background-color:rgb(255, 252, 247);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.derechos{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
